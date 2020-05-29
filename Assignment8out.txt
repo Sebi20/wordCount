@@ -1,0 +1,14 @@
+The text:
+
+Your car is fast but it is not super fast
+---------------------------------------------------
+Displaying the sorted words with the number of unique words:
+
+but  	1
+car  	1
+fast  	2
+is  	2
+it  	1
+not  	1
+super  	1
+your  	1
