@@ -13,7 +13,6 @@ public class Assignment8{
 		int [] wordCount = new int[max];
 		String text;
 	
-		
 		while(input.hasNext()) {
 			
 			text = input.nextLine();// Pulling the text from the file
@@ -35,7 +34,7 @@ public class Assignment8{
 			printArray(newWord, newCount, newSize, output);// Printing the new Array with the count of the unique words
 		}// End of the while loop
 		
-		
+		System.out.println("done");
 		output.close();
 	}// end of main
 	
